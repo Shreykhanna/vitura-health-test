@@ -29,7 +29,7 @@ function App() {
     <Box
       className="product-app"
       sx={{
-        minHeight: "100%",
+        minHeight: "100vh",
         background:
           "linear-gradient(135deg, #ffb347 0%, #ff6a00 60%, #ff1744 100%)",
         alignItems: "center",
